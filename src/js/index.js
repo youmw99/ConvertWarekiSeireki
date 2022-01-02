@@ -1,0 +1,7 @@
+function execWarekiToSeireki(){
+
+}
+
+function execSeirekiToWareki(){
+    
+}
