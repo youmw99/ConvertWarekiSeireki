@@ -22,6 +22,12 @@ function commonExecfunc(inputId,outputId){
         }
 
     var result = judgeWarekiSeireki();
-    var output = document.getElementById(outputId);
-    output.value = result;
+
+    if(!result){
+        //error logic
+    }
+    else{
+        var output = document.getElementById(outputId);
+        output.value = result;
+    }
 }
