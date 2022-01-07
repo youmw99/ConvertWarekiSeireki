@@ -5,7 +5,7 @@ Legal Stuff / Licensing:
 
 -------------------------------------------------------------------------------
 
-Copyright (c) 2022 Minwoo Yu, Byungjun Moon
+Copyright (c) 2022 Minwoo Yu, Byeongjun Moon
 
      
 
