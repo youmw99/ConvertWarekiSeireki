@@ -4,7 +4,7 @@
 //2. convertSeirekiToWareki의 경우
 //3. 공통
 //3-1. 잘못들어오는 값에 대한 처리(ex:-1111,Z2324,String등)
-function convertWarekiToSeireki(str, number){
+function convertWarekiToSeireki(num){
 
 }
 
